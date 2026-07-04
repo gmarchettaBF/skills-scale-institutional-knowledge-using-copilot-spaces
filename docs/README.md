@@ -12,11 +12,11 @@ For **Release & Deployment**, teams confirm readiness criteria, run deployment c
 
 ## Documentation Index
 
-- [docs/octoacme-project-management-overview.md](./octoacme-project-management-overview.md)
-- [docs/octoacme-project-initiation.md](./octoacme-project-initiation.md)
-- [docs/octoacme-project-planning.md](./octoacme-project-planning.md)
-- [docs/octoacme-execution-and-tracking.md](./octoacme-execution-and-tracking.md)
-- [docs/octoacme-risks-and-communication.md](./octoacme-risks-and-communication.md)
-- [docs/octoacme-release-and-deployment.md](./octoacme-release-and-deployment.md)
-- [docs/octoacme-retrospective-and-continuous-improvement.md](./octoacme-retrospective-and-continuous-improvement.md)
-- [docs/octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md)
+- [octoacme-project-management-overview.md](./octoacme-project-management-overview.md)
+- [octoacme-project-initiation.md](./octoacme-project-initiation.md)
+- [octoacme-project-planning.md](./octoacme-project-planning.md)
+- [octoacme-execution-and-tracking.md](./octoacme-execution-and-tracking.md)
+- [octoacme-risks-and-communication.md](./octoacme-risks-and-communication.md)
+- [octoacme-release-and-deployment.md](./octoacme-release-and-deployment.md)
+- [octoacme-retrospective-and-continuous-improvement.md](./octoacme-retrospective-and-continuous-improvement.md)
+- [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md)
